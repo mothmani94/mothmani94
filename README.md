@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything interesting
 - 🌱 I’m currently learning interesting stuff
 - 💞️ I’m looking to collaborate on interesting stuff
-- 📫 How to reach me > you have to be a Rick first.
+- 📫 How to reach me > you have to be a Rick.
 
 <!---
 mothmani94/mothmani94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
